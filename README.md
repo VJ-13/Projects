@@ -3,7 +3,7 @@
 Classic Snake Game with graphics in python
 
 ### Requirement
-Löve
+Python
 
 ## Mario Game
 Game like Mario with graphics in Löve
@@ -14,4 +14,4 @@ Löve
 Classic Pong Game with graphics in Löve
 
 ### Requirement 
-Python
+Löve
